@@ -8,11 +8,9 @@ Websites like Youtube can be productive. But, as soon the main page loads there 
 
 # 
 
-![Alt text](https://github.com/Abhishek-on/DeclutterF-Google-Chrome-Extension/blob/main/screenshots/Screenshot1.png)
+![Alt text](https://github.com/Abhishek-on/DeclutterF-Google-Chrome-Extension/blob/master/screenshots/Screenshot1.png)
 
-![Alt text](https://github.com/Abhishek-on/DeclutterF-Google-Chrome-Extension/blob/main/screenshots/Screenshot2.png)
-
-![Alt text](https://github.com/Abhishek-on/DeclutterF-Google-Chrome-Extension/blob/main/screenshots/Screenshot3.png)
+![Alt text](https://github.com/Abhishek-on/DeclutterF-Google-Chrome-Extension/blob/master/screenshots/Screenshot2.png)
 
 # Integration
 
